@@ -1,0 +1,24 @@
+{
+  "version": "v4",
+  "repo": "nedarb/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "filewriter/filewriter.d.ts": {
+      "commit": "123d10b884b8dd4f14c72854c9fba2663d9c7d17"
+    },
+    "filesystem/filesystem.d.ts": {
+      "commit": "123d10b884b8dd4f14c72854c9fba2663d9c7d17"
+    },
+    "node/node.d.ts": {
+      "commit": "7577a2f4c134790891c52affdacdae99d802571b"
+    },
+    "webrtc-es6/MediaStream-es6.d.ts": {
+      "commit": "123d10b884b8dd4f14c72854c9fba2663d9c7d17"
+    },
+    "chrome-es6/chrome-es6.d.ts": {
+      "commit": "123d10b884b8dd4f14c72854c9fba2663d9c7d17"
+    }
+  }
+}
